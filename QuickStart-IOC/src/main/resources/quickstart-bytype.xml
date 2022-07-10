@@ -5,11 +5,11 @@
         https://www.springframework.org/schema/beans/spring-beans.xsd">
 
     <bean
-            class="www.github.ybqdrem.byname.bean.Person">
+            class="www.github.ybqdren.byname.bean.Person">
     </bean>
 
     <bean
-        class="www.github.ybqdrem.bytype.dao.impl.DemoOracleDaoImpl"
+        class="www.github.ybqdren.bytype.dao.impl.DemoOracleDaoImpl"
     >
     </bean>
 </beans>

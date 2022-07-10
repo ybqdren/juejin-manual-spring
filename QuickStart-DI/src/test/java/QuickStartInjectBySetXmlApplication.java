@@ -1,10 +1,10 @@
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.BeanFactory;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
-import www.github.ybqdrem.bean.Cat;
-import www.github.ybqdrem.bean.Person;
-import www.github.ybqdrem.dao.impl.DemoOracleDaoImpl;
-import www.github.ybqdrem.service.impl.DemoServiceImpl;
+import www.github.ybqdren.bean.Cat;
+import www.github.ybqdren.bean.Person;
+import www.github.ybqdren.dao.impl.DemoOracleDaoImpl;
+import www.github.ybqdren.service.impl.DemoServiceImpl;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;

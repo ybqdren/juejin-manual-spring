@@ -4,7 +4,7 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans
         https://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean id="demoDao" class="www.github.ybqdrem.dao.impl.DemoOracleDaoImpl"></bean>
-    <bean id="demoService" class="www.github.ybqdrem.service.impl.DemoServiceImpl"></bean>
+    <bean id="demoDao" class="www.github.ybqdren.dao.impl.DemoOracleDaoImpl"></bean>
+    <bean id="demoService" class="www.github.ybqdren.service.impl.DemoServiceImpl"></bean>
 
 </beans>

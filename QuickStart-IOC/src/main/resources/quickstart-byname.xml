@@ -6,7 +6,7 @@
 
     <bean
             id="person"
-            class="www.github.ybqdrem.byname.bean.Person">
+            class="www.github.ybqdren.byname.bean.Person">
 
     </bean>
 </beans>

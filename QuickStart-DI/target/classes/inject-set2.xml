@@ -4,11 +4,11 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans
         https://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean id="person" class="www.github.ybqdrem.bean.Person">
+    <bean id="person" class="www.github.ybqdren.bean.Person">
         <property name="name" value = "test-person-byset"></property>
         <property name="age" value = "18"></property>
     </bean>
-    <bean id="cat" class="www.github.ybqdrem.bean.Cat">
+    <bean id="cat" class="www.github.ybqdren.bean.Cat">
         <property name="name" value="test-cat"></property>
         <property name="master" ref="person"></property>
     </bean>
