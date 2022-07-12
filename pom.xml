@@ -14,6 +14,7 @@
         <module>IOC-BeanFacotryAndApplicationContext</module>
         <module>IOC-Anno-Scan</module>
         <module>IOC-DI-SPEL</module>
+        <module>IOC-Auto-Type</module>
     </modules>
     <packaging>pom</packaging>
 
